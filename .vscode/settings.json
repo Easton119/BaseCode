@@ -4,6 +4,8 @@
         "*.ejs": "html",
         "iostream": "cpp",
         "ostream": "cpp",
-        "memory": "cpp"
+        "memory": "cpp",
+        "fcntl.h": "c",
+        "stdlib.h": "c"
     }
 }
